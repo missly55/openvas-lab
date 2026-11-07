@@ -1,6 +1,6 @@
 # Vulnerability Assessment Lab | OpenVAS & Metasploitable 2
 
-# Description:
+# Project Description:
 
 This is a beginner project to learn how to perform vulnerability assessments using Greenbone OpenVAS and Metasploitable 2 in an isolated virtual lab.
 
