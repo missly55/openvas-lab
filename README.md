@@ -45,4 +45,20 @@ Screenshots of the VMware Fusion configuration will be added as the lab progress
    - Review the scan findings.
    - Understand the identified security weaknesses.
    - Document findings and possible remediation recommendations.
+
+
+
+
+
+
+   ## Learning Resources
+
+MyDFIR OpenVAS Vulnerability Assessment Lab Tutorial
+
+Used as a learning guide for setting up the virtual lab
+and understanding the vulnerability scanning process.
+
+The virtual lab configuration, scan results, analysis,
+screenshots, and documentation are based on my own
+hands-on practice.
 -->
