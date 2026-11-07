@@ -6,7 +6,7 @@ Beginner vulnerability assessment lab using Greenbone OpenVAS and Metasploitable
 
 
 
-
+<!--
 ## Next Steps
 
 1. Complete the virtual lab environment setup.
@@ -20,3 +20,4 @@ Beginner vulnerability assessment lab using Greenbone OpenVAS and Metasploitable
    - Review the scan findings.
    - Understand the identified security weaknesses.
    - Document findings and possible remediation recommendations.
+-->
