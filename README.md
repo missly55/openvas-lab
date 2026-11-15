@@ -48,6 +48,50 @@ Screenshots of the VMware Fusion configuration will be added as the lab progress
 
 
 
+Project Overview
+
+This project involved setting up a vulnerability assessment lab using Kali Linux, OpenVAS, and Metasploitable 2. The objective was to identify security vulnerabilities on a deliberately vulnerable target machine and understand their potential risks.
+
+Tools Used
+- Kali Linux
+- OpenVAS / Greenbone
+- Metasploitable 2
+- VMware Fusion
+Lab Setup
+
+[Screenshot 1: Kali Linux and OpenVAS]
+
+[Screenshot 2: Metasploitable 2 connectivity]
+
+Vulnerability Assessment Results
+
+[Screenshot 3: Completed vulnerability scan]
+
+Findings
+1. Vulnerability 1: Description and severity.
+2. Vulnerability 2: Description and severity.
+3. Vulnerability 3: Description and severity.
+Remediation Recommendations
+
+Brief recommendations for addressing each finding.
+
+What I Learned
+
+I learned how to configure a vulnerability assessment environment, connect a target machine, use OpenVAS to identify vulnerabilities, and interpret scan findings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
