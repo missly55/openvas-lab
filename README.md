@@ -7,6 +7,86 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 The goal is to set up the virtual machines, practice vulnerability scanning, review identified security weaknesses, and document findings and possible remediation.
 
 <!--
+# Vulnerability Assessment Lab | Nmap & Metasploitable 2
+
+## Project Description
+
+This is a beginner project to learn how to perform vulnerability assessments using Nmap and Metasploitable 2 in an isolated virtual lab.
+
+The goal is to set up the virtual machines, practice vulnerability scanning, review identified security weaknesses, and document findings and possible remediation.
+
+## Tools Used
+- Kali Linux
+- Nmap
+- Metasploitable 2
+- VMware Fusion
+
+## Lab Setup
+
+**Screenshot 1:** Kali Linux environment.
+
+**Screenshot 2:** Metasploitable 2 and network connectivity.
+
+## Vulnerability Assessment
+
+I used Nmap to scan the Metasploitable 2 machine and identify potential security weaknesses.
+
+**Command used:**
+
+`sudo nmap -sV --script vuln 172.16.74.130`
+
+**Screenshot 3:** Nmap vulnerability scan results.
+
+## Findings
+
+Document three findings from the actual scan results.
+
+**1. Vulnerability 1**
+- Finding:
+- Severity:
+- Possible remediation:
+
+**2. Vulnerability 2**
+- Finding:
+- Severity:
+- Possible remediation:
+
+**3. Vulnerability 3**
+- Finding:
+- Severity:
+- Possible remediation:
+
+*Severity will be recorded when supported by the scan results or a verified vulnerability reference.*
+
+## What I Learned
+
+I learned how to configure an isolated virtual lab, connect a target machine, use Nmap to identify open ports and services, review potential security weaknesses, and document findings and possible remediation recommendations.
+
+
+
+__________________________
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 Phase 1: Environment Setup
 
