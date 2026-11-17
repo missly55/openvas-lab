@@ -16,16 +16,19 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 
 ![Kali Linux](Project/Kali-Linux.png)
 
-**Screenshot 2:** Metasploitable 2 environment.
+
+**Screenshot 2:** Kali IP Address.
+
+![Kali IP](Project/Kali-IP-Address.png)
+
+
+**Screenshot 3:** Metasploitable 2 environment.
 
 ![Metasploitable 2](Project/Metasploitable2.png)
 
-**Screenshot 3:** Metasploitable 2 and network connectivity.
+**Screenshot 4:** Metasploitable 2 and Kali connectivity.
 
 ![Metasploitable 2 Network](Project/metasploitable-network.png)
-
-
-<!--
 
 
 ## Vulnerability Assessment
@@ -36,10 +39,9 @@ I used Nmap to scan the Metasploitable 2 machine and identify potential security
 
 `sudo nmap -sV --script vuln 172.16.74.130`
 
-**Screenshot 4:** Nmap vulnerability scan results.
+**Screenshot 5:** Nmap vulnerability scan results.
 
 ![Nmap Scan Results](Project/Nmap-Scan.png)
-
 
 ## Findings
 
@@ -54,15 +56,6 @@ What this means: The vulnerable service could potentially allow unauthorized acc
 
 Possible remediation: Update to a secure version or disable FTP if it is not needed.
 
-**2. Vulnerability 2**
-- Finding:
-- Severity:
-- Possible remediation:
-
-**3. Vulnerability 3**
-- Finding:
-- Severity:
-- Possible remediation:
 
 *Severity will be recorded when supported by the scan results or a verified vulnerability reference.*
 
@@ -72,6 +65,16 @@ I learned how to configure an isolated virtual lab, connect a target machine, us
 
 
 
+<!--
+**2. Vulnerability 2**
+- Finding:
+- Severity:
+- Possible remediation:
+
+**3. Vulnerability 3**
+- Finding:
+- Severity:
+- Possible remediation:
 __________________________
 
 
