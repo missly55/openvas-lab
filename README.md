@@ -15,11 +15,12 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 **Screenshot 1:** Kali Linux environment.
 ![Kali Linux](Project/Kali-Linux.png)
 
-**Screenshot 2:** Metasploitable 2 and network connectivity.
+**Screenshot 2:** Metasploitable 2 environment.
+![Metasploitable 2](Project/Metasploitable2.png)
 
-![Metasploitable 2 Network](Project/Kali Linx communicating with Metasploitable2.png)
+**Screenshot 3:** Metasploitable 2 and network connectivity.
 
-![Metasploitable 2 Network](Project/Kali Linx communicating with Metasploitable2.png)
+
 
 <!--
 
@@ -32,7 +33,10 @@ I used Nmap to scan the Metasploitable 2 machine and identify potential security
 
 `sudo nmap -sV --script vuln 172.16.74.130`
 
-**Screenshot 3:** Nmap vulnerability scan results.
+**Screenshot 4:** Nmap vulnerability scan results.
+
+![Nmap Scan Results](Project/Nmap-Scan.png)
+
 
 ## Findings
 
