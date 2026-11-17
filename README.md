@@ -10,16 +10,17 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 - Metasploitable 2
 - VMware Fusion
 
-<!--
-
-
-
-
 ## Lab Setup
 
 **Screenshot 1:** Kali Linux environment.
+![Kali Linux](Project/kali-linux.png)
 
 **Screenshot 2:** Metasploitable 2 and network connectivity.
+
+![Metasploitable 2 Network](Project/Kali Linx communicating with Metasploitable2.png)
+
+<!--
+
 
 ## Vulnerability Assessment
 
