@@ -1,25 +1,19 @@
-# Vulnerability Assessment Lab | OpenVAS & Metasploitable 2
+# Vulnerability Assessment Lab | Nmap & Metasploitable 2
 
 # Project Description:
 
-This is a beginner project to learn how to perform vulnerability assessments using Greenbone OpenVAS and Metasploitable 2 in an isolated virtual lab.
-
-The goal is to set up the virtual machines, practice vulnerability scanning, review identified security weaknesses, and document findings and possible remediation.
-
-<!--
-# Vulnerability Assessment Lab | Nmap & Metasploitable 2
-
-## Project Description
-
-This is a beginner project to learn how to perform vulnerability assessments using Nmap and Metasploitable 2 in an isolated virtual lab.
-
-The goal is to set up the virtual machines, practice vulnerability scanning, review identified security weaknesses, and document findings and possible remediation.
+This is a beginner project to learn how to perform vulnerability assessments using Nmap and Metasploitable 2 in an isolated virtual lab. The goal is to set up the virtual machines, practice vulnerability scanning, review identified security weaknesses, and document findings and possible remediation.
 
 ## Tools Used
 - Kali Linux
 - Nmap
 - Metasploitable 2
 - VMware Fusion
+
+<!--
+
+
+
 
 ## Lab Setup
 
@@ -42,9 +36,13 @@ I used Nmap to scan the Metasploitable 2 machine and identify potential security
 Document three findings from the actual scan results.
 
 **1. Vulnerability 1**
-- Finding:
-- Severity:
-- Possible remediation:
+Finding 1: Outdated FTP service (vsftpd 2.3.4)
+
+What Nmap found: An FTP service running vsftpd 2.3.4, a version associated with a known backdoor vulnerability.
+
+What this means: The vulnerable service could potentially allow unauthorized access to the machine.
+
+Possible remediation: Update to a secure version or disable FTP if it is not needed.
 
 **2. Vulnerability 2**
 - Finding:
