@@ -65,6 +65,28 @@ I learned how to configure an isolated virtual lab, connect a target machine, us
 
 
 
+
+
+
+## Learning Resources
+
+`MyDFIR OpenVAS Vulnerability Assessment Lab Tutorial
+
+Used as a learning guide for setting up the virtual lab
+and understanding the vulnerability scanning process.
+
+The virtual lab configuration, scan results, analysis,
+screenshots, and documentation are based on my own
+hands-on practice.`
+-->
+
+
+
+
+
+
+
+
 <!--
 **2. Vulnerability 2**
 - Finding:
