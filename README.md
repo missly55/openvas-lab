@@ -19,6 +19,8 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 
 ![Metasploitable 2 Network](Project/Kali Linx communicating with Metasploitable2.png)
 
+![Metasploitable 2 Network](Project/Kali Linx communicating with Metasploitable2.png)
+
 <!--
 
 
