@@ -13,7 +13,7 @@ This is a beginner project to learn how to perform vulnerability assessments usi
 ## Lab Setup
 
 **Screenshot 1:** Kali Linux environment.
-![Kali Linux](Project/kali-linux.png)
+![Kali Linux](Project/Kali-Linux.png)
 
 **Screenshot 2:** Metasploitable 2 and network connectivity.
 
